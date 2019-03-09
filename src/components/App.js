@@ -11,11 +11,6 @@ class App extends Component {
     return (
       <div className="container">
         <h1>Dhrumil parikh</h1>
-
-        {/* <Header />
-        <SearchBar />
-        <Filter />
-        <ItemList /> */}
       </div>
     );
   }
