@@ -10,7 +10,10 @@ class App extends Component {
   render() {
     return (
       <div className="container">
-        <h1>Dhrumil parikh</h1>
+        <Header />
+        <SearchBar />
+        <Filter />
+        <ItemList />
       </div>
     );
   }
